@@ -18,6 +18,7 @@ public static void main(String args[])
         }
 		System.out.println(s);
 		System.out.println("New Branch, branch 1 is added");
+		System.out.println("New Branch, branch 2 is added");
         
     }
 }
